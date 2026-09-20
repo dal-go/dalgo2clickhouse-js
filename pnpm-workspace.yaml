@@ -1,0 +1,2 @@
+allowBuilds:
+  "@dal-go/dalgo@https://codeload.github.com/dal-go/dalgo-js/tar.gz/04ce7f644fc334da7e471f0be503a7b937c7025d": true
